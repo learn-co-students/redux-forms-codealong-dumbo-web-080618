@@ -6,7 +6,7 @@ class CreateTodo extends Component {
       <div>
         Create Todo Component
       </div>
-    )
+    ) 
   }
 }
 
